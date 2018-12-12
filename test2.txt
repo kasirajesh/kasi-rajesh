@@ -1,0 +1,6 @@
+
+1.  Add Built-in Plugins Admins. Users can install, update and remove plugins by some clicks via Plugins Admin:
+    https://notepad-plus-plus.org/features/plugin-admin.html
+2.  Change plugin loading method: Remove the legacy plugin loading way and apply only the new plugin loading method.
+3.  Add new message NPPM_GETPLUGINHOMEPATH in Notepad++ API for plugin, so plugin can get its path easily.
+4.  Fix a regression of performance issue while word wrap option is enable.
